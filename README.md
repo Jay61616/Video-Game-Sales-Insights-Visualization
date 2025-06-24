@@ -9,7 +9,7 @@ Two primary audiences were targeted:
 ---
 
 ## 📊 Dataset
-The dataset (`vgsales.csv`) contains over 16,000 records and includes:
+The dataset [vgsales.csv]("data/vgsales.csv) contains over 16,000 records and includes:
 - Game titles, release year, platform, genre
 - Regional sales (NA, EU, JP, Other)
 - Global sales
@@ -62,20 +62,20 @@ The dataset (`vgsales.csv`) contains over 16,000 records and includes:
 
 ```
 video-game-sales-insights-viz/
-├── data/                  # Raw dataset (.csv)
-├── dashboards/            # PPTX files with all visual dashboards
-├── report/                # Written report (cleaned .md or .docx)
-├── tableau/               # Tableau workbook (.twb)
-└── README.md              # This file
+├── data/
+│   └── vgsales.csv
+├── presentations/
+│   ├── Final_Presentation_Publisher.pptm
+│   └── Final_Presentation_Devloper.pptm
+├── report/
+│   └── Final_Presentation_Report.docx
+├── tableau/
+│   └── Dashboards.twb
+└── README.md ✅
 ```
-
----
-
-## 🧾 License
-This project is for educational and demonstration purposes only.
 
 ---
 
 ## 👨‍💻 Author
 **Jaya Chandra Kadiveti**  
-📧 [jkadiveti@clarku.edu](mailto:jkadiveti@clarku.edu)
+📧 [Kadivetijayachandra@gmail.com](mailto:Kadivetijayachandra@gmail.com)
