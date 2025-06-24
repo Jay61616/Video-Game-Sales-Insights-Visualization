@@ -32,12 +32,15 @@ The dataset [vgsales.csv](data/vgsales.csv) contains over 16,000 records and inc
   
 - **📊 Visuals**:
   Genre vs Sales Bubble Chart
+  
   ![0](https://github.com/user-attachments/assets/0219fca4-2dfe-4eb6-9425-81480d763c54)
 
   Top 10 Competitors in Action Genre
+  
   ![1](https://github.com/user-attachments/assets/41ce2df8-093b-47bb-bfcd-21e2429c7f2d)
 
   Average Global Sales per Genre
+  
   ![2](https://github.com/user-attachments/assets/b3d024f4-0af4-4da1-acaa-2a3410d87bb6)
 
 - **Insights**:
@@ -53,12 +56,15 @@ The dataset [vgsales.csv](data/vgsales.csv) contains over 16,000 records and inc
   
 - **📊 Visuals**:
   Genre-Platform Combinations Bubble Chart
+  
   ![4](https://github.com/user-attachments/assets/4f628215-d88b-4ce8-93ba-37681335cce9)
 
   Top Publishers per Domain (Pie Charts)
+  
   ![5](https://github.com/user-attachments/assets/e3b6f638-f8d5-465e-8911-d53a02caddcb)
 
   Top Global Publishers (Box Plot)
+  
   ![6](https://github.com/user-attachments/assets/6c44a7d2-7975-42e1-92fe-d8ff6b47e3ec)
 
 - **Insights**:
