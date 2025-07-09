@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales Insights & Visualization
 
-This project was developed as part of a Data Visualization & Storytelling course and aims to provide meaningful business insights from historical video game sales data. To view the whole dashboard go on to [Tableau Public]((https://public.tableau.com/app/profile/jaya.chandra.kadiveti/viz/VideoGamesSalesAnalysis_17518890328660/DeveloperDashboard))
+This project was developed as part of a Data Visualization & Storytelling course and aims to provide meaningful business insights from historical video game sales data. To view the whole dashboard go on to [Tableau Public](https://public.tableau.com/app/profile/jaya.chandra.kadiveti/viz/VideoGamesSalesAnalysis_17518890328660/DeveloperDashboard)
 
 Two primary audiences were targeted:
 1. **Game Publishers** looking to optimize their genre strategy for sales
