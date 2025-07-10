@@ -113,7 +113,7 @@ video-game-sales-insights-viz/
 │   ├── Publisher_Final_Presentation.pptm
 │   └── Developer_Final_Presentation.pptm
 ├── report/
-│   └── Video Game Sales Report.docx
+│   └── Video_Game_Sales_Report.docx
 └── README.md ✅
 ```
 
