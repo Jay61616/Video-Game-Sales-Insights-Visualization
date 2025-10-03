@@ -121,4 +121,4 @@ video-game-sales-insights-viz/
 
 ## 👨‍💻 Author
 **Jaya Chandra Kadiveti**  
-📧 [Kadivetijayachandra@gmail.com](mailto:Kadivetijayachandra@gmail.com)
+📧 [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
